@@ -102,7 +102,7 @@ namespace Lab2
         }
 
         // Metode for å kunne skrive ut deklarer informasjon
-        private void Info()
+        public void Info()
         {
             Console.WriteLine($"ID: {ID} \nNavn: {navn} \nFødselsdato: {fødselsdato} \nAdresse: {adresse}");
         }
