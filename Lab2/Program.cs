@@ -1,5 +1,5 @@
 ﻿// Alle øvelser vil ligge i sin egen metode https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods
-// For å kjøre metoden for de forskjellige øvelsene kan er det å gjøre delene på linje 25, 47, 65 og 72 til kjørbar kode fra kommentar
+// For å kjøre metoden for de forskjellige øvelsene kan er det å gjøre delene på linje 30, 56, 78 og 86 til kjørbar kode fra kommentar
 namespace Lab2
 {
     class Program
