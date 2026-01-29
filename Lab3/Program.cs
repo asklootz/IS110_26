@@ -1,5 +1,5 @@
 ﻿// Alle øvelser vil ligge i sin egen metode https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods
-// For 
+// For å kjøre metoden for de forskjellige øvelsene må det bare gjøre tekst på linje 65, 77, 98 og 130 til kjørbar kode fra kommentar
 
 using System.Diagnostics;
 using System.Globalization;
