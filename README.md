@@ -13,8 +13,9 @@ Er det noen spørsmål kan du ta kontakt når som helst via epost askl@uia.no el
 git clone https://github.com/asklootz/IS110_26
 ```
 
-## Labøvelser som er gjort: 
+## Labøvelser som er gjort/planlagt: 
 - Lab øvelse 2: :white_check_mark:
 - Lab øvelse 3: :white_check_mark:
 - Lab øvelse 4: :white_check_mark:
-- Lab øvelse 5: :soon: (5. februar)
+- Lab øvelse 5: :white_check_mark:
+- Lab øvelse 6: :soon: (12. februar)
