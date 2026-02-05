@@ -2,9 +2,11 @@
 Samling av løsningsforslag til forskjellige labøvinger i faget IS110 for 2025-kullet.
 Husk å prøve selv først, dette klarer dere fint :yum:
 
-Skal prøve å komme med oppdatering når nye øvelser er ute
+Skal prøve å komme med oppdatering litt etter nye øveringer er ute
 
 Husk at dette er et mulig forslag, sjekk LA Tobias sitt forslag for andre mulige løsninger. https://github.com/Gorilla-Mode/IS110Lab
+
+**NB!** Dette er forslag, så hvis du finner en annen løsning som ikke matcher meg eller andre LA betyr ikke det at den nødvendigvis er feil :stuck_out_tongue_winking_eye:
 
 Er det noen spørsmål kan du ta kontakt når som helst via epost askl@uia.no eller på [Discord](https://discord.com/channels/TotallyTonik)
 
