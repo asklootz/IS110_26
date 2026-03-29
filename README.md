@@ -20,4 +20,6 @@ git clone https://github.com/asklootz/IS110_26
 - Lab øvelse 3: :white_check_mark:
 - Lab øvelse 4: :white_check_mark:
 - Lab øvelse 5: :white_check_mark:
-- Lab øvelse 6: :soon: (12. februar)
+- Lab øvelse 8: :white_check_mark:
+- Lab øvelse 10: :white_check_mark:
+- Lab øvelse 12: :soon:
